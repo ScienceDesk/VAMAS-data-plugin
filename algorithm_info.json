@@ -1,0 +1,63 @@
+{
+   "id":5,
+   "owner":{
+      "id":3,
+      "user_title":null,
+      "first_name":"ScienceDesk",
+      "last_name":"Data Management",
+      "is_institutional":false,
+      "full":false,
+      "username":"anonymous"
+   },
+   "creator":{
+      "id":3,
+      "user_title":null,
+      "first_name":"ScienceDesk",
+      "last_name":"Data Management",
+      "is_institutional":false,
+      "full":false,
+      "username":"anonymous"
+   },
+   "type":"processing",
+   "name":"Import VAMAS files",
+   "description":"Parse VAMAS file (VAMAS Surface Chemical Analysis Standard Data Transfer Format 1988 May 4).\nIt decomposes the input file to several files with simple text format  and tab-separated values.",
+   "language":"python3",
+   "published":false,
+   "gpu":false,
+   "jInfo":{
+
+   },
+   "created_at":"2021-06-04T13:45:40.542718Z",
+   "edited_at":"2021-06-06T20:17:07.875079Z",
+   "version":0,
+   "protected":false,
+   "developer_uid":"",
+   "code_uid":"",
+   "jInputCustomForm":{
+
+   },
+   "jInputFormData":{
+
+   },
+   "jOutputCustomForm":{
+
+   },
+   "jOutputFormData":{
+
+   },
+   "hash":"93bb36246b844af3da6d83bb2d659569",
+   "hash_alg":"md5",
+   "code_digest":null,
+   "default_input_file_types":null,
+   "visible":true,
+   "star":0,
+   "input_type":"tabular",
+   "functionality":"transform",
+   "num_downloads":0,
+   "platform":"Python3/Science",
+   "availability":"Open code",
+   "internet_link":"https://github.com/ScienceDesk/VAMAS-data-plugin",
+   "collectionsMK":[
+
+   ]
+}
